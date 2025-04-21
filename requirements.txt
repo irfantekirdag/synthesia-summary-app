@@ -1,8 +1,9 @@
 streamlit
-requests
 beautifulsoup4
 transformers
+torch
 fpdf
 deep-translator
 python-docx
 qrcode
+requests
