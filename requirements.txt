@@ -1,10 +1,10 @@
 streamlit
-transformers
-beautifulsoup4
-fpdf
 requests
-re
-deep-translator
-python-docx
-qrcode
+beautifulsoup4
+transformers
 torch
+sentencepiece
+fpdf
+python-docx
+deep-translator
+qrcode
